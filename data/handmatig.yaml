@@ -1,0 +1,143 @@
+# Zelf ingevoerde events. Deze staan altijd in de app, ook zonder internetbronnen.
+# Startdata verzameld op 4 november 2026 (bronnen staan bij elk event).
+# Datums kunnen wijzigen: check altijd de link.
+
+events:
+  # ---- Concerten ----
+  - titel: Mon Laferte
+    soort: concert
+    start: 2027-01-18T20:00
+    artiesten: [Mon Laferte]
+    zaal: Cirque Royal
+    stad: Brussel
+    land: BE
+    url: https://www.songkick.com/metro-areas/182976-belgium-brussels/genre/latin
+    bron: Handmatig
+
+  - titel: Yendry
+    soort: concert
+    start: 2027-02-20
+    artiesten: [Yendry]
+    zaal: Cirque Royal Club
+    stad: Brussel
+    land: BE
+    url: https://www.songkick.com/concerts/43474586-yendry-at-cirque-royal-club
+
+  - titel: "Karol G – Viajando Por El Mundo Tropitour"
+    soort: concert
+    start: 2027-07-10
+    artiesten: [Karol G]
+    zaal: Johan Cruijff ArenA
+    stad: Amsterdam
+    land: NL
+    genres: [reggaeton]
+    url: https://www.concertarchives.org/linedc22/concerts
+
+  # ---- Dansfestivals België (bron: Salsa Vida) ----
+  - titel: Brussels Salsa Marathon 2026
+    soort: festival
+    start: 2026-12-04
+    eind: 2026-12-07
+    stad: Brussel
+    land: BE
+    genres: [salsa]
+    url: https://www.salsavida.com/nl/event/belgium/brussels/brussels-salsa-marathon/
+
+  - titel: Makutano SBK Festival
+    soort: festival
+    start: 2026-12-18
+    eind: 2026-12-20
+    stad: Brussel
+    land: BE
+    genres: [salsa, bachata, kizomba]
+    url: https://www.salsavida.com/nl/event/belgium/brussels/makutano-sbk-festival/
+
+  - titel: Latin Dreams Festival 2027
+    soort: festival
+    start: 2027-02-05
+    eind: 2027-02-07
+    stad: Charleroi
+    land: BE
+    url: https://www.salsavida.com/nl/event/belgium/wallonia/hainaut/charleroi/latin-dreams-festival/
+
+  - titel: "Kizz'Me BachAmore Congress 2027"
+    soort: festival
+    start: 2027-04-09
+    eind: 2027-04-11
+    stad: Mons
+    land: BE
+    genres: [bachata, kizomba]
+    url: https://www.salsavida.com/nl/event/belgium/wallonia/hainaut/mons/kizzme-bachamore-congress/
+
+  - titel: Afro-Latino Festival in Thor Park 2027
+    soort: festival
+    start: 2027-07-09
+    eind: 2027-07-11
+    zaal: Thor Park
+    stad: Genk
+    land: BE
+    url: https://www.salsavida.com/nl/event/belgium/flanders/limburg-flanders/genk/afro-latino-festival-at-thor-park/
+
+  - titel: Brussels Retro Salsa Fest 4 in The Backyard 2027
+    soort: festival
+    start: 2027-08-06
+    eind: 2027-08-08
+    zaal: The Backyard
+    stad: Brussel
+    land: BE
+    genres: [salsa]
+    url: https://www.salsavida.com/nl/event/belgium/brussels/brussels-retro-salsa-fest-3-at-the-backyard/
+
+  # ---- Dansfestival Noord-Frankrijk ----
+  - titel: Lille Salsa Festival 3 (Tumbao) 2027
+    soort: festival
+    start: 2027-02-12
+    eind: 2027-02-14
+    stad: Villeneuve-d'Ascq
+    land: FR
+    genres: [salsa, bachata]
+    prijs: "€80 (volledige pas)"
+    url: https://www.salsavida.com/event/france/lille/lille-salsa-festival/
+
+  # ---- Losse dansavonden binnen 50 km ----
+  - titel: Salsa Night bij Dansschool Dursin
+    soort: dansavond
+    start: 2026-11-07T21:00
+    zaal: Dansschool Dursin
+    stad: Kortrijk
+    land: BE
+    genres: [salsa]
+    url: https://www.salsavida.com/nl/event/belgium/flanders/west-flanders/kortrijk/salsa-night-at-dansschool-dursin-kortrijk/
+
+  - titel: Salsa Saturday bij Proyecto La Colorada
+    soort: dansavond
+    start: 2026-11-14T21:00
+    zaal: Proyecto La Colorada
+    stad: Snaaskerke
+    land: BE
+    genres: [salsa]
+    url: https://www.salsavida.com/nl/event/belgium/flanders/west-flanders/snaaskerke/salsa-saturday-october-2025-at-proyecto-la-colorada/
+
+# Terugkerende dansavonden. herhaling: wekelijks (dag) of maandelijks (week 1-4 of -1 = laatste, dag)
+# dagen: ma di wo do vr za zo. Met 'behalve: [2026-12-26]' sla je een datum over.
+terugkerend:
+  - titel: B-Salsa maandfeest
+    herhaling: {type: maandelijks, week: 2, dag: za}
+    tijd: "21:00"
+    zaal: Azúcar Dansateljée
+    adres: Ter Looigemweg 29
+    stad: Brugge
+    land: BE
+    genres: [salsa, bachata, kizomba]
+    prijs: "€5"
+    url: https://www.salsavida.com/nl/event/belgium/flanders/west-flanders/brugge/b-salsa-monthly-party-at-azucar-dansateljee/
+
+  - titel: Salsapulse-social op woensdag
+    herhaling: {type: wekelijks, dag: wo}
+    tijd: "18:00"
+    zaal: Salsapulse
+    stad: Gent
+    land: BE
+    genres: [salsa]
+    prijs: gratis
+    url: https://www.salsavida.com/nl/event/belgium/flanders/east-flanders/gent/salsapuls-wednesday-socials-in-gent/

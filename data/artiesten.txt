@@ -1,0 +1,86 @@
+# Latin-artiesten die we via Bandsintown volgen (één per regel).
+# Ook zonder Bandsintown helpt deze lijst: events van deze namen worden altijd als Latin herkend.
+# Reggaeton / urbano
+Bad Bunny
+Karol G
+J Balvin
+Rauw Alejandro
+Ozuna
+Maluma
+Feid
+Myke Towers
+Anuel AA
+Daddy Yankee
+Nicky Jam
+Sech
+Young Miko
+Young Cister
+Mora
+Jhayco
+Arcángel
+Wisin & Yandel
+Farruko
+Manuel Turizo
+Blessd
+Ryan Castro
+Quevedo
+Bizarrap
+Tini
+Emilia
+Nicki Nicole
+María Becerra
+Duki
+Bad Gyal
+Rosalía
+Becky G
+Anitta
+# Pop / rock latino
+Shakira
+Juanes
+Carlos Vives
+Ricky Martin
+Enrique Iglesias
+Marc Anthony
+Camilo
+Sebastián Yatra
+Morat
+Reik
+Jesse & Joy
+Mon Laferte
+Natalia Lafourcade
+Kali Uchis
+Yendry
+Bomba Estéreo
+Los Ángeles Azules
+Pedro Capó
+Alvaro Soler
+Pablo Alborán
+Aitana
+Alejandro Sanz
+Manu Chao
+Café Tacvba
+Zoé
+# Salsa / tropical / bachata
+Romeo Santos
+Aventura
+Prince Royce
+Juan Luis Guerra
+Gilberto Santa Rosa
+Víctor Manuelle
+Grupo Niche
+Guayacán Orquesta
+Los Van Van
+Havana D'Primera
+Eliades Ochoa
+Buena Vista Social Club
+La Sonora Ponceña
+Oscar D'León
+Tito Nieves
+Elvis Crespo
+# Regional mexicano / corridos
+Peso Pluma
+Natanael Cano
+Grupo Frontera
+Fuerza Regida
+Carín León
+Christian Nodal
