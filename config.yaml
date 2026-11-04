@@ -1,0 +1,59 @@
+# Latin Agenda — instellingen
+# Alle afstanden worden hemelsbreed berekend vanaf het vertrekpunt.
+
+vertrekpunt:
+  naam: Brugge
+  lat: 51.2093
+  lon: 3.2247
+
+periode_dagen: 365          # hoe ver vooruit we kijken
+
+# Welke events komen in de app, per soort
+regels:
+  concert:
+    landen: [BE, NL]        # heel België en heel Nederland
+  festival:
+    landen: [BE, NL, FR]
+    max_km_per_land:
+      FR: 160               # Frankrijk alleen het noorden (Lille, Duinkerke, Arras ...)
+  dansavond:
+    landen: [BE]
+    max_km: 50              # salsa/bachata-avonden binnen 50 km van Brugge
+
+# Ticketmaster: zoekgebied (cirkels) + landen
+ticketmaster:
+  landen: [BE, NL, FR]
+  classificatie: Latin
+  # Frankrijk alleen rond Brugge ophalen; BE en NL volledig
+  frankrijk_straal_km: 160
+
+# Salsa Vida (gratis, publiek MCP-endpoint)
+salsavida:
+  endpoint: https://mcp.salsavida.com/mcp
+  gebieden:
+    - {zoek: "Belgium", soorten: [festival, dansavond]}
+    - {zoek: "Netherlands", soorten: [festival]}
+    - {zoek: "Hauts-de-France", soorten: [festival]}
+
+# Pagina's met schema.org-eventdata (JSON-LD). Je kunt hier zelf URL's toevoegen,
+# bv. de agenda van een zaal. Alleen events die als Latin herkend worden blijven over.
+jsonld_paginas:
+  - https://www.songkick.com/metro-areas/182976-belgium-brussels/genre/latin
+  - https://www.songkick.com/metro-areas/26852-belgium-antwerp/genre/latin
+
+# Artiesten die we altijd checken via Bandsintown (alleen met app_id)
+watchlist_bestand: data/artiesten.txt
+
+# Woorden waaraan we Latin-events herkennen (titel, genre, beschrijving)
+latin_woorden:
+  reggaeton: [reggaeton, reggaetón, perreo, dembow, urbano latino, latin trap]
+  salsa: [salsa, timba, son cubano, rueda]
+  bachata: [bachata]
+  kizomba: [kizomba, semba, urban kiz]
+  cumbia: [cumbia, vallenato]
+  merengue: [merengue]
+  latin pop: [latin pop, pop latino]
+  latin: [latin, latino, latina, latinx, afro-latino]   # vangnet als niets specifiekers past
+  regional mexicano: [regional mexicano, mariachi, corridos, banda sinaloense]
+  tango: [tango, milonga]
+  flamenco: [flamenco, rumba flamenca]
