@@ -1,10 +1,14 @@
 {
- "bijgewerkt": "2026-11-04T13:38+00:00",
+ "bijgewerkt": "2026-11-04T19:50+00:00",
  "vertrekpunt": "Brugge",
  "opgehaald_per_bron": {
-  "Handmatig": 77
+  "Handmatig": 77,
+  "Ticketmaster": 16,
+  "Bandsintown": 0,
+  "Salsa Vida": 0,
+  "Webpagina's": 1
  },
- "aantal": 77,
+ "aantal": 91,
  "events": [
   {
    "titel": "Salsapulse-social op woensdag",
@@ -26,6 +30,29 @@
    "bron": "Handmatig",
    "opmerking": "Terugkerend event: check de datum bij de organisator",
    "afstand_km": 38.5
+  },
+  {
+   "titel": "Alceu Valença",
+   "start": "2026-11-05T19:00",
+   "soort": "concert",
+   "eind": null,
+   "artiesten": [
+    "Alceu Valença"
+   ],
+   "zaal": "Melkweg",
+   "stad": "Amsterdam",
+   "land": "NL",
+   "adres": "Lijnbaansgracht 234 A",
+   "lat": 52.36483,
+   "lon": 4.88127,
+   "genres": [
+    "latin"
+   ],
+   "prijs": "",
+   "url": "https://www.ticketmaster.nl/event/alceu-valenca-tickets/1123816709",
+   "bron": "Ticketmaster",
+   "opmerking": "",
+   "afstand_km": 171.7
   },
   {
    "titel": "Salsa Night bij Dansschool Dursin",
@@ -114,6 +141,52 @@
    "afstand_km": 20.7
   },
   {
+   "titel": "PIÑA",
+   "start": "2026-11-14T22:30",
+   "soort": "concert",
+   "eind": null,
+   "artiesten": [
+    "PIÑA"
+   ],
+   "zaal": "Metropool Hengelo",
+   "stad": "Hengelo OV",
+   "land": "NL",
+   "adres": "Industrieplein 10",
+   "lat": 52.26115,
+   "lon": 6.79439,
+   "genres": [
+    "latin"
+   ],
+   "prijs": "",
+   "url": "https://www.ticketmaster.nl/event/pina-tickets/594039536",
+   "bron": "Ticketmaster",
+   "opmerking": "",
+   "afstand_km": 272.2
+  },
+  {
+   "titel": "Santiago Cruz",
+   "start": "2026-11-15T20:00",
+   "soort": "concert",
+   "eind": null,
+   "artiesten": [
+    "Santiago Cruz"
+   ],
+   "zaal": "Espace Lumen",
+   "stad": "Elsene",
+   "land": "BE",
+   "adres": "Ch. de Boondael/Boondaalse Steenweg 36",
+   "lat": 50.82676,
+   "lon": 4.37538,
+   "genres": [
+    "latin"
+   ],
+   "prijs": "",
+   "url": "https://www.ticketmaster.be/event/santiago-cruz-tickets/323364822",
+   "bron": "Ticketmaster",
+   "opmerking": "",
+   "afstand_km": 91.0
+  },
+  {
    "titel": "Salsapulse-social op woensdag",
    "start": "2026-11-18T18:00",
    "soort": "dansavond",
@@ -133,6 +206,75 @@
    "bron": "Handmatig",
    "opmerking": "Terugkerend event: check de datum bij de organisator",
    "afstand_km": 38.5
+  },
+  {
+   "titel": "Chico Chico",
+   "start": "2026-11-20T19:30",
+   "soort": "concert",
+   "eind": null,
+   "artiesten": [
+    "Chico Chico"
+   ],
+   "zaal": "Melkweg",
+   "stad": "Amsterdam",
+   "land": "NL",
+   "adres": "Lijnbaansgracht 234 A",
+   "lat": 52.36483,
+   "lon": 4.88127,
+   "genres": [
+    "latin"
+   ],
+   "prijs": "",
+   "url": "https://www.ticketmaster.nl/event/chico-chico-tickets/1377245667",
+   "bron": "Ticketmaster",
+   "opmerking": "",
+   "afstand_km": 171.7
+  },
+  {
+   "titel": "Fiesta Macumba",
+   "start": "2026-11-20T23:30",
+   "soort": "concert",
+   "eind": null,
+   "artiesten": [
+    "Fiesta Macumba"
+   ],
+   "zaal": "Melkweg",
+   "stad": "Amsterdam",
+   "land": "NL",
+   "adres": "Lijnbaansgracht 234 A",
+   "lat": 52.36483,
+   "lon": 4.88127,
+   "genres": [
+    "latin"
+   ],
+   "prijs": "",
+   "url": "https://www.ticketmaster.nl/event/fiesta-macumba-tickets/1038726014",
+   "bron": "Ticketmaster",
+   "opmerking": "",
+   "afstand_km": 171.7
+  },
+  {
+   "titel": "SPANISH HEAT",
+   "start": "2026-11-21T23:00",
+   "soort": "concert",
+   "eind": null,
+   "artiesten": [
+    "SPANISH HEAT"
+   ],
+   "zaal": "Metropool Enschede",
+   "stad": "Enschede",
+   "land": "NL",
+   "adres": "Willem Wilminkplein 2",
+   "lat": 52.22255,
+   "lon": 6.89461,
+   "genres": [
+    "latin"
+   ],
+   "prijs": "",
+   "url": "https://www.ticketmaster.nl/event/spanish-heat-tickets/300116771",
+   "bron": "Ticketmaster",
+   "opmerking": "",
+   "afstand_km": 276.8
   },
   {
    "titel": "Salsapulse-social op woensdag",
@@ -240,6 +382,29 @@
    "bron": "Handmatig",
    "opmerking": "Terugkerend event: check de datum bij de organisator",
    "afstand_km": 0.0
+  },
+  {
+   "titel": "Maite Hontelé",
+   "start": "2026-12-12T21:00",
+   "soort": "concert",
+   "eind": null,
+   "artiesten": [
+    "Maite Hontele"
+   ],
+   "zaal": "Metropool Enschede",
+   "stad": "Enschede",
+   "land": "NL",
+   "adres": "Willem Wilminkplein 2",
+   "lat": 52.22255,
+   "lon": 6.89461,
+   "genres": [
+    "latin"
+   ],
+   "prijs": "",
+   "url": "https://www.ticketmaster.nl/event/maite-hontele-tickets/1029409102",
+   "bron": "Ticketmaster",
+   "opmerking": "",
+   "afstand_km": 276.8
   },
   {
    "titel": "Salsapulse-social op woensdag",
@@ -414,6 +579,29 @@
    "bron": "Handmatig",
    "opmerking": "",
    "afstand_km": 88.3
+  },
+  {
+   "titel": "Mon Laferte",
+   "start": "2027-01-18T20:00",
+   "soort": "concert",
+   "eind": "2027-01-18",
+   "artiesten": [
+    "Mon Laferte"
+   ],
+   "zaal": "Cirque Royal - Koninklijk Circus",
+   "stad": "Brussels",
+   "land": "BE",
+   "adres": "R de l'Enseignement-Onderrichtsstraat 81",
+   "lat": 50.84906,
+   "lon": 4.36565,
+   "genres": [
+    "latin"
+   ],
+   "prijs": "",
+   "url": "https://www.ticketmaster.be/event/mon-laferte-tickets/622908318",
+   "bron": "Ticketmaster + songkick.com",
+   "opmerking": "",
+   "afstand_km": 89.3
   },
   {
    "titel": "Salsapulse-social op woensdag",
@@ -610,6 +798,29 @@
    "afstand_km": 88.3
   },
   {
+   "titel": "YENDRY",
+   "start": "2027-02-20T18:30",
+   "soort": "concert",
+   "eind": null,
+   "artiesten": [
+    "Yendry"
+   ],
+   "zaal": "Cirque Royal - The Club",
+   "stad": "Brussels",
+   "land": "BE",
+   "adres": "R de l'Enseignement-Onderrichtsstraat 81",
+   "lat": 50.84906,
+   "lon": 4.36565,
+   "genres": [
+    "latin"
+   ],
+   "prijs": "",
+   "url": "https://www.ticketmaster.be/event/yendry-tickets/1911355478",
+   "bron": "Ticketmaster",
+   "opmerking": "",
+   "afstand_km": 89.3
+  },
+  {
    "titel": "Salsapulse-social op woensdag",
    "start": "2027-02-24T18:00",
    "soort": "dansavond",
@@ -778,6 +989,29 @@
    "bron": "Handmatig",
    "opmerking": "Terugkerend event: check de datum bij de organisator",
    "afstand_km": 38.5
+  },
+  {
+   "titel": "Sietepè",
+   "start": "2027-04-08T20:30",
+   "soort": "concert",
+   "eind": null,
+   "artiesten": [
+    "Sietepè"
+   ],
+   "zaal": "SPOT  Lutherse Kerk",
+   "stad": "Groningen",
+   "land": "NL",
+   "adres": "Haddingestraat 23",
+   "lat": 53.21594,
+   "lon": 6.56569,
+   "genres": [
+    "latin"
+   ],
+   "prijs": "",
+   "url": "https://www.ticketmaster.nl/event/sietepe-tickets/1927299227",
+   "bron": "Ticketmaster",
+   "opmerking": "",
+   "afstand_km": 318.7
   },
   {
    "titel": "Kizz'Me BachAmore Congress 2027",
@@ -1016,6 +1250,29 @@
    "afstand_km": 38.5
   },
   {
+   "titel": "Gipsy Kings ft Nicolas Reyes",
+   "start": "2027-06-08T20:00",
+   "soort": "concert",
+   "eind": null,
+   "artiesten": [
+    "Gipsy Kings featuring Nicolas Reyes"
+   ],
+   "zaal": "PHIL",
+   "stad": "Haarlem",
+   "land": "NL",
+   "adres": "Lange Begijnestraat 11",
+   "lat": 52.3886,
+   "lon": 4.63981,
+   "genres": [
+    "latin"
+   ],
+   "prijs": "",
+   "url": "https://www.ticketmaster.nl/event/gipsy-kings-ft-nicolas-reyes-tickets/1280520555",
+   "bron": "Ticketmaster",
+   "opmerking": "",
+   "afstand_km": 163.3
+  },
+  {
    "titel": "Salsapulse-social op woensdag",
    "start": "2027-06-09T18:00",
    "soort": "dansavond",
@@ -1035,6 +1292,75 @@
    "bron": "Handmatig",
    "opmerking": "Terugkerend event: check de datum bij de organisator",
    "afstand_km": 38.5
+  },
+  {
+   "titel": "Gipsy Kings featuring Nicolas Reyes",
+   "start": "2027-06-10T20:15",
+   "soort": "concert",
+   "eind": null,
+   "artiesten": [
+    "Gipsy Kings featuring Nicolas Reyes"
+   ],
+   "zaal": "Muziekgebouw Eindhoven",
+   "stad": "Eindhoven",
+   "land": "NL",
+   "adres": "Heuvel 140",
+   "lat": 51.43841,
+   "lon": 5.47986,
+   "genres": [
+    "latin"
+   ],
+   "prijs": "",
+   "url": "https://www.ticketmaster.nl/event/gipsy-kings-featuring-nicolas-reyes-tickets/668831624",
+   "bron": "Ticketmaster",
+   "opmerking": "",
+   "afstand_km": 158.8
+  },
+  {
+   "titel": "Gipsy Kings featuring Nicolas Reyes",
+   "start": "2027-06-11T20:15",
+   "soort": "concert",
+   "eind": null,
+   "artiesten": [
+    "Gipsy Kings featuring Nicolas Reyes"
+   ],
+   "zaal": "DE VEREENIGING",
+   "stad": "Nijmegen",
+   "land": "NL",
+   "adres": "Keizer Karelplein 2d",
+   "lat": 51.84224,
+   "lon": 5.86057,
+   "genres": [
+    "latin"
+   ],
+   "prijs": "",
+   "url": "https://www.ticketmaster.nl/event/gipsy-kings-featuring-nicolas-reyes-tickets/763002291",
+   "bron": "Ticketmaster",
+   "opmerking": "",
+   "afstand_km": 195.4
+  },
+  {
+   "titel": "Gipsy Kings featuring Nicolas Reyes",
+   "start": "2027-06-12T20:15",
+   "soort": "concert",
+   "eind": null,
+   "artiesten": [
+    "Gipsy Kings featuring Nicolas Reyes"
+   ],
+   "zaal": "de Doelen",
+   "stad": "Rotterdam",
+   "land": "NL",
+   "adres": "Schouwburgplein 50",
+   "lat": 51.92174,
+   "lon": 4.47318,
+   "genres": [
+    "latin"
+   ],
+   "prijs": "",
+   "url": "https://www.ticketmaster.nl/event/gipsy-kings-featuring-nicolas-reyes-tickets/910456549",
+   "bron": "Ticketmaster",
+   "opmerking": "",
+   "afstand_km": 117.1
   },
   {
    "titel": "B-Salsa maandfeest",
@@ -1175,7 +1501,7 @@
    "zaal": "Johan Cruijff ArenA",
    "stad": "Amsterdam",
    "land": "NL",
-   "adres": "",
+   "adres": "Johan Cruijff Boulevard 1",
    "lat": 52.3676,
    "lon": 4.9041,
    "genres": [
@@ -1183,7 +1509,7 @@
    ],
    "prijs": "",
    "url": "https://www.concertarchives.org/linedc22/concerts",
-   "bron": "Handmatig",
+   "bron": "Handmatig + Ticketmaster",
    "opmerking": "",
    "afstand_km": 173.0
   },
