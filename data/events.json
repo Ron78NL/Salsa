@@ -1,36 +1,15 @@
 {
- "bijgewerkt": "2026-11-04T19:50+00:00",
+ "bijgewerkt": "2026-11-05T06:13+00:00",
  "vertrekpunt": "Brugge",
  "opgehaald_per_bron": {
-  "Handmatig": 77,
+  "Handmatig": 76,
   "Ticketmaster": 16,
   "Bandsintown": 0,
   "Salsa Vida": 0,
   "Webpagina's": 1
  },
- "aantal": 91,
+ "aantal": 90,
  "events": [
-  {
-   "titel": "Salsapulse-social op woensdag",
-   "start": "2026-11-04T18:00",
-   "soort": "dansavond",
-   "eind": null,
-   "artiesten": [],
-   "zaal": "Salsapulse",
-   "stad": "Gent",
-   "land": "BE",
-   "adres": "",
-   "lat": 51.0543,
-   "lon": 3.7174,
-   "genres": [
-    "salsa"
-   ],
-   "prijs": "gratis",
-   "url": "https://www.salsavida.com/nl/event/belgium/flanders/east-flanders/gent/salsapuls-wednesday-socials-in-gent/",
-   "bron": "Handmatig",
-   "opmerking": "Terugkerend event: check de datum bij de organisator",
-   "afstand_km": 38.5
-  },
   {
    "titel": "Alceu Valença",
    "start": "2026-11-05T19:00",
