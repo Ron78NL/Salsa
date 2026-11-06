@@ -1,38 +1,15 @@
 {
- "bijgewerkt": "2026-11-05T06:13+00:00",
+ "bijgewerkt": "2026-11-06T06:12+00:00",
  "vertrekpunt": "Brugge",
  "opgehaald_per_bron": {
   "Handmatig": 76,
-  "Ticketmaster": 16,
+  "Ticketmaster": 15,
   "Bandsintown": 0,
   "Salsa Vida": 0,
   "Webpagina's": 1
  },
- "aantal": 90,
+ "aantal": 89,
  "events": [
-  {
-   "titel": "Alceu Valença",
-   "start": "2026-11-05T19:00",
-   "soort": "concert",
-   "eind": null,
-   "artiesten": [
-    "Alceu Valença"
-   ],
-   "zaal": "Melkweg",
-   "stad": "Amsterdam",
-   "land": "NL",
-   "adres": "Lijnbaansgracht 234 A",
-   "lat": 52.36483,
-   "lon": 4.88127,
-   "genres": [
-    "latin"
-   ],
-   "prijs": "",
-   "url": "https://www.ticketmaster.nl/event/alceu-valenca-tickets/1123816709",
-   "bron": "Ticketmaster",
-   "opmerking": "",
-   "afstand_km": 171.7
-  },
   {
    "titel": "Salsa Night bij Dansschool Dursin",
    "start": "2026-11-07T21:00",
