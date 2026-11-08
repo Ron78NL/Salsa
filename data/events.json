@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "2026-11-07T05:58+00:00",
+ "bijgewerkt": "2026-11-08T05:59+00:00",
  "vertrekpunt": "Brugge",
  "opgehaald_per_bron": {
   "Handmatig": 76,
@@ -8,29 +8,8 @@
   "Salsa Vida": 0,
   "Webpagina's": 1
  },
- "aantal": 89,
+ "aantal": 88,
  "events": [
-  {
-   "titel": "Salsa Night bij Dansschool Dursin",
-   "start": "2026-11-07T21:00",
-   "soort": "dansavond",
-   "eind": null,
-   "artiesten": [],
-   "zaal": "Dansschool Dursin",
-   "stad": "Kortrijk",
-   "land": "BE",
-   "adres": "",
-   "lat": 50.8279,
-   "lon": 3.2649,
-   "genres": [
-    "salsa"
-   ],
-   "prijs": "",
-   "url": "https://www.salsavida.com/nl/event/belgium/flanders/west-flanders/kortrijk/salsa-night-at-dansschool-dursin-kortrijk/",
-   "bron": "Handmatig",
-   "opmerking": "",
-   "afstand_km": 42.5
-  },
   {
    "titel": "Salsapulse-social op woensdag",
    "start": "2026-11-11T18:00",
