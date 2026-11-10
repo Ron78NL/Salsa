@@ -1,14 +1,14 @@
 {
- "bijgewerkt": "2026-11-09T06:21+00:00",
+ "bijgewerkt": "2026-11-10T06:04+00:00",
  "vertrekpunt": "Brugge",
  "opgehaald_per_bron": {
-  "Handmatig": 76,
+  "Handmatig": 77,
   "Ticketmaster": 15,
   "Bandsintown": 0,
   "Salsa Vida": 0,
   "Webpagina's": 1
  },
- "aantal": 88,
+ "aantal": 89,
  "events": [
   {
    "titel": "Salsapulse-social op woensdag",
@@ -1900,6 +1900,27 @@
   {
    "titel": "Salsapulse-social op woensdag",
    "start": "2027-11-03T18:00",
+   "soort": "dansavond",
+   "eind": null,
+   "artiesten": [],
+   "zaal": "Salsapulse",
+   "stad": "Gent",
+   "land": "BE",
+   "adres": "",
+   "lat": 51.0543,
+   "lon": 3.7174,
+   "genres": [
+    "salsa"
+   ],
+   "prijs": "gratis",
+   "url": "https://www.salsavida.com/nl/event/belgium/flanders/east-flanders/gent/salsapuls-wednesday-socials-in-gent/",
+   "bron": "Handmatig",
+   "opmerking": "Terugkerend event: check de datum bij de organisator",
+   "afstand_km": 38.5
+  },
+  {
+   "titel": "Salsapulse-social op woensdag",
+   "start": "2027-11-10T18:00",
    "soort": "dansavond",
    "eind": null,
    "artiesten": [],
