@@ -58,7 +58,8 @@ st.markdown("""
         margin: 0;}
   .kop span {color: #DC2626;}
   .sub {font-size: .95rem; opacity: .8; margin: .2rem 0 .8rem;}
-  .tellers {display: flex; flex-wrap: wrap; gap: .4rem .6rem; margin: .2rem 0 .6rem; font-size: .92rem;}
+  .tellers {display: flex; flex-wrap: wrap; gap: .3rem 1.2rem; margin: .2rem 0 .6rem; font-size: .92rem;}
+  .tellers > span {white-space: nowrap;}
   .tellers b {font-size: 1.05rem;}
   .maand {font-family: 'Bebas Neue', sans-serif; font-size: 1.9rem; letter-spacing: .5px; line-height: 1;
           margin: 1.4rem 0 .5rem; text-transform: capitalize;
@@ -207,10 +208,10 @@ if samenvoegen:
 
 n = {s: int((f["soort"] == s).sum()) for s in SOORT_NAAM}
 volgende = f[f["eind_dag"].dt.date >= vandaag].head(1)
-tellers = " · ".join(f"<span><b>{n[s]}</b> {SOORT_MV[s]}</span>" for s in SOORT_NAAM if s in soorten)
+tellers = "".join(f"<span><b>{n[s]}</b> {SOORT_MV[s]}</span>" for s in SOORT_NAAM if s in soorten)
 if len(volgende):
     d0 = volgende["dag"].iloc[0]
-    tellers += f" · <span>eerstvolgende <b>{DAGEN[d0.weekday()]} {d0.day}/{d0.month}</b></span>"
+    tellers += f"<span>eerstvolgende <b>{DAGEN[d0.weekday()]} {d0.day}/{d0.month}</b></span>"
 st.markdown(f'<div class="tellers">{tellers}</div>', unsafe_allow_html=True)
 
 tab_lijst, tab_kaart, tab_tabel = st.tabs([":material/event: Agenda", ":material/map: Kaart",
