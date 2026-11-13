@@ -1,14 +1,14 @@
 {
- "bijgewerkt": "2026-11-12T06:15+00:00",
+ "bijgewerkt": "2026-11-13T06:14+00:00",
  "vertrekpunt": "Brugge",
  "opgehaald_per_bron": {
-  "Handmatig": 76,
+  "Handmatig": 77,
   "Ticketmaster": 15,
   "Bandsintown": 0,
   "Salsa Vida": 0,
   "Webpagina's": 1
  },
- "aantal": 88,
+ "aantal": 89,
  "events": [
   {
    "titel": "B-Salsa maandfeest",
@@ -1917,6 +1917,29 @@
    "bron": "Handmatig",
    "opmerking": "Terugkerend event: check de datum bij de organisator",
    "afstand_km": 38.5
+  },
+  {
+   "titel": "B-Salsa maandfeest",
+   "start": "2027-11-13T21:00",
+   "soort": "dansavond",
+   "eind": null,
+   "artiesten": [],
+   "zaal": "Azúcar Dansateljée",
+   "stad": "Brugge",
+   "land": "BE",
+   "adres": "Ter Looigemweg 29",
+   "lat": 51.2093,
+   "lon": 3.2247,
+   "genres": [
+    "salsa",
+    "bachata",
+    "kizomba"
+   ],
+   "prijs": "€5",
+   "url": "https://www.salsavida.com/nl/event/belgium/flanders/west-flanders/brugge/b-salsa-monthly-party-at-azucar-dansateljee/",
+   "bron": "Handmatig",
+   "opmerking": "Terugkerend event: check de datum bij de organisator",
+   "afstand_km": 0.0
   }
  ]
 }
