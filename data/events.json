@@ -1,14 +1,14 @@
 {
- "bijgewerkt": "2026-11-13T06:14+00:00",
+ "bijgewerkt": "2026-11-14T06:00+00:00",
  "vertrekpunt": "Brugge",
  "opgehaald_per_bron": {
   "Handmatig": 77,
-  "Ticketmaster": 15,
+  "Ticketmaster": 16,
   "Bandsintown": 0,
   "Salsa Vida": 0,
   "Webpagina's": 1
  },
- "aantal": 89,
+ "aantal": 90,
  "events": [
   {
    "titel": "B-Salsa maandfeest",
@@ -1034,6 +1034,29 @@
    "bron": "Handmatig",
    "opmerking": "Terugkerend event: check de datum bij de organisator",
    "afstand_km": 38.5
+  },
+  {
+   "titel": "Rolf Sanchez",
+   "start": "2027-04-29T19:30",
+   "soort": "concert",
+   "eind": null,
+   "artiesten": [
+    "Rolf Sanchez"
+   ],
+   "zaal": "Melkweg",
+   "stad": "Amsterdam",
+   "land": "NL",
+   "adres": "Lijnbaansgracht 234 A",
+   "lat": 52.36483,
+   "lon": 4.88127,
+   "genres": [
+    "latin"
+   ],
+   "prijs": "",
+   "url": "https://www.ticketmaster.nl/event/rolf-sanchez-tickets/1920822640",
+   "bron": "Ticketmaster",
+   "opmerking": "",
+   "afstand_km": 171.7
   },
   {
    "titel": "Salsapulse-social op woensdag",
