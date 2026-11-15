@@ -1,82 +1,15 @@
 {
- "bijgewerkt": "2026-11-14T06:00+00:00",
+ "bijgewerkt": "2026-11-15T06:02+00:00",
  "vertrekpunt": "Brugge",
  "opgehaald_per_bron": {
-  "Handmatig": 77,
-  "Ticketmaster": 16,
+  "Handmatig": 76,
+  "Ticketmaster": 15,
   "Bandsintown": 0,
   "Salsa Vida": 0,
   "Webpagina's": 1
  },
- "aantal": 90,
+ "aantal": 87,
  "events": [
-  {
-   "titel": "B-Salsa maandfeest",
-   "start": "2026-11-14T21:00",
-   "soort": "dansavond",
-   "eind": null,
-   "artiesten": [],
-   "zaal": "Azúcar Dansateljée",
-   "stad": "Brugge",
-   "land": "BE",
-   "adres": "Ter Looigemweg 29",
-   "lat": 51.2093,
-   "lon": 3.2247,
-   "genres": [
-    "salsa",
-    "bachata",
-    "kizomba"
-   ],
-   "prijs": "€5",
-   "url": "https://www.salsavida.com/nl/event/belgium/flanders/west-flanders/brugge/b-salsa-monthly-party-at-azucar-dansateljee/",
-   "bron": "Handmatig",
-   "opmerking": "Terugkerend event: check de datum bij de organisator",
-   "afstand_km": 0.0
-  },
-  {
-   "titel": "Salsa Saturday bij Proyecto La Colorada",
-   "start": "2026-11-14T21:00",
-   "soort": "dansavond",
-   "eind": null,
-   "artiesten": [],
-   "zaal": "Proyecto La Colorada",
-   "stad": "Snaaskerke",
-   "land": "BE",
-   "adres": "",
-   "lat": 51.1726,
-   "lon": 2.9339,
-   "genres": [
-    "salsa"
-   ],
-   "prijs": "",
-   "url": "https://www.salsavida.com/nl/event/belgium/flanders/west-flanders/snaaskerke/salsa-saturday-october-2025-at-proyecto-la-colorada/",
-   "bron": "Handmatig",
-   "opmerking": "",
-   "afstand_km": 20.7
-  },
-  {
-   "titel": "PIÑA",
-   "start": "2026-11-14T22:30",
-   "soort": "concert",
-   "eind": null,
-   "artiesten": [
-    "PIÑA"
-   ],
-   "zaal": "Metropool Hengelo",
-   "stad": "Hengelo OV",
-   "land": "NL",
-   "adres": "Industrieplein 10",
-   "lat": 52.26115,
-   "lon": 6.79439,
-   "genres": [
-    "latin"
-   ],
-   "prijs": "",
-   "url": "https://www.ticketmaster.nl/event/pina-tickets/594039536",
-   "bron": "Ticketmaster",
-   "opmerking": "",
-   "afstand_km": 272.2
-  },
   {
    "titel": "Santiago Cruz",
    "start": "2026-11-15T20:00",
