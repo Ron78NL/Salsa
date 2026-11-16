@@ -1,38 +1,15 @@
 {
- "bijgewerkt": "2026-11-15T06:02+00:00",
+ "bijgewerkt": "2026-11-16T06:39+00:00",
  "vertrekpunt": "Brugge",
  "opgehaald_per_bron": {
   "Handmatig": 76,
-  "Ticketmaster": 15,
+  "Ticketmaster": 14,
   "Bandsintown": 0,
   "Salsa Vida": 0,
   "Webpagina's": 1
  },
- "aantal": 87,
+ "aantal": 86,
  "events": [
-  {
-   "titel": "Santiago Cruz",
-   "start": "2026-11-15T20:00",
-   "soort": "concert",
-   "eind": null,
-   "artiesten": [
-    "Santiago Cruz"
-   ],
-   "zaal": "Espace Lumen",
-   "stad": "Elsene",
-   "land": "BE",
-   "adres": "Ch. de Boondael/Boondaalse Steenweg 36",
-   "lat": 50.82676,
-   "lon": 4.37538,
-   "genres": [
-    "latin"
-   ],
-   "prijs": "",
-   "url": "https://www.ticketmaster.be/event/santiago-cruz-tickets/323364822",
-   "bron": "Ticketmaster",
-   "opmerking": "",
-   "afstand_km": 91.0
-  },
   {
    "titel": "Salsapulse-social op woensdag",
    "start": "2026-11-18T18:00",
