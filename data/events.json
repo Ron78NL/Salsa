@@ -1,14 +1,14 @@
 {
- "bijgewerkt": "2026-11-17T06:15+00:00",
+ "bijgewerkt": "2026-11-18T06:19+00:00",
  "vertrekpunt": "Brugge",
  "opgehaald_per_bron": {
   "Handmatig": 77,
-  "Ticketmaster": 14,
+  "Ticketmaster": 15,
   "Bandsintown": 0,
   "Salsa Vida": 0,
   "Webpagina's": 0
  },
- "aantal": 87,
+ "aantal": 88,
  "events": [
   {
    "titel": "Salsapulse-social op woensdag",
@@ -923,6 +923,29 @@
    "bron": "Handmatig",
    "opmerking": "Terugkerend event: check de datum bij de organisator",
    "afstand_km": 38.5
+  },
+  {
+   "titel": "CHETES (MX) – Europa Tour 2027",
+   "start": "2027-04-22T20:00",
+   "soort": "concert",
+   "eind": null,
+   "artiesten": [
+    "Chetes"
+   ],
+   "zaal": "Poppodium Q-Factory",
+   "stad": "Amsterdam",
+   "land": "NL",
+   "adres": "Atlantisplein 1",
+   "lat": 52.35736,
+   "lon": 4.93038,
+   "genres": [
+    "latin"
+   ],
+   "prijs": "",
+   "url": "https://www.ticketmaster.nl/event/chetes-mx--europa-tour-2027-tickets/742796012",
+   "bron": "Ticketmaster",
+   "opmerking": "",
+   "afstand_km": 173.4
   },
   {
    "titel": "Salsapulse-social op woensdag",
