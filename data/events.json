@@ -1,61 +1,15 @@
 {
- "bijgewerkt": "2026-11-20T06:18+00:00",
+ "bijgewerkt": "2026-11-21T06:08+00:00",
  "vertrekpunt": "Brugge",
  "opgehaald_per_bron": {
   "Handmatig": 76,
-  "Ticketmaster": 15,
+  "Ticketmaster": 13,
   "Bandsintown": 0,
   "Salsa Vida": 0,
-  "Webpagina's": 0
+  "Webpagina's": 1
  },
- "aantal": 87,
+ "aantal": 85,
  "events": [
-  {
-   "titel": "Chico Chico",
-   "start": "2026-11-20T19:30",
-   "soort": "concert",
-   "eind": null,
-   "artiesten": [
-    "Chico Chico"
-   ],
-   "zaal": "Melkweg",
-   "stad": "Amsterdam",
-   "land": "NL",
-   "adres": "Lijnbaansgracht 234 A",
-   "lat": 52.36483,
-   "lon": 4.88127,
-   "genres": [
-    "latin"
-   ],
-   "prijs": "",
-   "url": "https://www.ticketmaster.nl/event/chico-chico-tickets/1377245667",
-   "bron": "Ticketmaster",
-   "opmerking": "",
-   "afstand_km": 171.7
-  },
-  {
-   "titel": "Fiesta Macumba",
-   "start": "2026-11-20T23:30",
-   "soort": "concert",
-   "eind": null,
-   "artiesten": [
-    "Fiesta Macumba"
-   ],
-   "zaal": "Melkweg",
-   "stad": "Amsterdam",
-   "land": "NL",
-   "adres": "Lijnbaansgracht 234 A",
-   "lat": 52.36483,
-   "lon": 4.88127,
-   "genres": [
-    "latin"
-   ],
-   "prijs": "",
-   "url": "https://www.ticketmaster.nl/event/fiesta-macumba-tickets/1038726014",
-   "bron": "Ticketmaster",
-   "opmerking": "",
-   "afstand_km": 171.7
-  },
   {
    "titel": "SPANISH HEAT",
    "start": "2026-11-21T23:00",
@@ -387,7 +341,7 @@
    "titel": "Mon Laferte",
    "start": "2027-01-18T20:00",
    "soort": "concert",
-   "eind": null,
+   "eind": "2027-01-18",
    "artiesten": [
     "Mon Laferte"
    ],
@@ -402,7 +356,7 @@
    ],
    "prijs": "",
    "url": "https://www.ticketmaster.be/event/mon-laferte-tickets/622908318",
-   "bron": "Ticketmaster",
+   "bron": "Ticketmaster + songkick.com",
    "opmerking": "",
    "afstand_km": 89.3
   },
