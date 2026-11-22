@@ -1,38 +1,15 @@
 {
- "bijgewerkt": "2026-11-21T06:08+00:00",
+ "bijgewerkt": "2026-11-22T06:09+00:00",
  "vertrekpunt": "Brugge",
  "opgehaald_per_bron": {
   "Handmatig": 76,
-  "Ticketmaster": 13,
+  "Ticketmaster": 10,
   "Bandsintown": 0,
   "Salsa Vida": 0,
-  "Webpagina's": 1
+  "Webpagina's": 0
  },
- "aantal": 85,
+ "aantal": 82,
  "events": [
-  {
-   "titel": "SPANISH HEAT",
-   "start": "2026-11-21T23:00",
-   "soort": "concert",
-   "eind": null,
-   "artiesten": [
-    "SPANISH HEAT"
-   ],
-   "zaal": "Metropool Enschede",
-   "stad": "Enschede",
-   "land": "NL",
-   "adres": "Willem Wilminkplein 2",
-   "lat": 52.22255,
-   "lon": 6.89461,
-   "genres": [
-    "latin"
-   ],
-   "prijs": "",
-   "url": "https://www.ticketmaster.nl/event/spanish-heat-tickets/300116771",
-   "bron": "Ticketmaster",
-   "opmerking": "",
-   "afstand_km": 276.8
-  },
   {
    "titel": "Salsapulse-social op woensdag",
    "start": "2026-11-25T18:00",
@@ -338,29 +315,6 @@
    "afstand_km": 88.3
   },
   {
-   "titel": "Mon Laferte",
-   "start": "2027-01-18T20:00",
-   "soort": "concert",
-   "eind": "2027-01-18",
-   "artiesten": [
-    "Mon Laferte"
-   ],
-   "zaal": "Cirque Royal - Koninklijk Circus",
-   "stad": "Brussels",
-   "land": "BE",
-   "adres": "R de l'Enseignement-Onderrichtsstraat 81",
-   "lat": 50.84906,
-   "lon": 4.36565,
-   "genres": [
-    "latin"
-   ],
-   "prijs": "",
-   "url": "https://www.ticketmaster.be/event/mon-laferte-tickets/622908318",
-   "bron": "Ticketmaster + songkick.com",
-   "opmerking": "",
-   "afstand_km": 89.3
-  },
-  {
    "titel": "Salsapulse-social op woensdag",
    "start": "2027-01-20T18:00",
    "soort": "dansavond",
@@ -553,29 +507,6 @@
    "bron": "Handmatig",
    "opmerking": "",
    "afstand_km": 88.3
-  },
-  {
-   "titel": "YENDRY",
-   "start": "2027-02-20T18:30",
-   "soort": "concert",
-   "eind": null,
-   "artiesten": [
-    "Yendry"
-   ],
-   "zaal": "Cirque Royal - The Club",
-   "stad": "Brussels",
-   "land": "BE",
-   "adres": "R de l'Enseignement-Onderrichtsstraat 81",
-   "lat": 50.84906,
-   "lon": 4.36565,
-   "genres": [
-    "latin"
-   ],
-   "prijs": "",
-   "url": "https://www.ticketmaster.be/event/yendry-tickets/1911355478",
-   "bron": "Ticketmaster",
-   "opmerking": "",
-   "afstand_km": 89.3
   },
   {
    "titel": "Salsapulse-social op woensdag",
