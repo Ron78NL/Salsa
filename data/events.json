@@ -1,14 +1,14 @@
 {
- "bijgewerkt": "2026-11-22T06:09+00:00",
+ "bijgewerkt": "2026-11-23T16:01+00:00",
  "vertrekpunt": "Brugge",
  "opgehaald_per_bron": {
   "Handmatig": 76,
-  "Ticketmaster": 10,
+  "Ticketmaster": 13,
   "Bandsintown": 0,
   "Salsa Vida": 0,
   "Webpagina's": 0
  },
- "aantal": 82,
+ "aantal": 85,
  "events": [
   {
    "titel": "Salsapulse-social op woensdag",
@@ -185,6 +185,29 @@
    "afstand_km": 88.3
   },
   {
+   "titel": "Fiesta Macumba",
+   "start": "2026-12-18T23:30",
+   "soort": "concert",
+   "eind": null,
+   "artiesten": [
+    "Fiesta Macumba"
+   ],
+   "zaal": "Melkweg",
+   "stad": "Amsterdam",
+   "land": "NL",
+   "adres": "Lijnbaansgracht 234 A",
+   "lat": 52.36483,
+   "lon": 4.88127,
+   "genres": [
+    "latin"
+   ],
+   "prijs": "",
+   "url": "https://www.ticketmaster.nl/event/fiesta-macumba-tickets/1029600850",
+   "bron": "Ticketmaster",
+   "opmerking": "",
+   "afstand_km": 171.7
+  },
+  {
    "titel": "Salsapulse-social op woensdag",
    "start": "2026-12-23T18:00",
    "soort": "dansavond",
@@ -313,6 +336,29 @@
    "bron": "Handmatig",
    "opmerking": "",
    "afstand_km": 88.3
+  },
+  {
+   "titel": "Mon Laferte",
+   "start": "2027-01-18T20:00",
+   "soort": "concert",
+   "eind": null,
+   "artiesten": [
+    "Mon Laferte"
+   ],
+   "zaal": "Cirque Royal - Koninklijk Circus",
+   "stad": "Brussels",
+   "land": "BE",
+   "adres": "R de l'Enseignement-Onderrichtsstraat 81",
+   "lat": 50.84906,
+   "lon": 4.36565,
+   "genres": [
+    "latin"
+   ],
+   "prijs": "",
+   "url": "https://www.ticketmaster.be/event/mon-laferte-tickets/622908318",
+   "bron": "Ticketmaster",
+   "opmerking": "",
+   "afstand_km": 89.3
   },
   {
    "titel": "Salsapulse-social op woensdag",
@@ -507,6 +553,29 @@
    "bron": "Handmatig",
    "opmerking": "",
    "afstand_km": 88.3
+  },
+  {
+   "titel": "YENDRY",
+   "start": "2027-02-20T18:30",
+   "soort": "concert",
+   "eind": null,
+   "artiesten": [
+    "Yendry"
+   ],
+   "zaal": "Cirque Royal - The Club",
+   "stad": "Brussels",
+   "land": "BE",
+   "adres": "R de l'Enseignement-Onderrichtsstraat 81",
+   "lat": 50.84906,
+   "lon": 4.36565,
+   "genres": [
+    "latin"
+   ],
+   "prijs": "",
+   "url": "https://www.ticketmaster.be/event/yendry-tickets/1911355478",
+   "bron": "Ticketmaster",
+   "opmerking": "",
+   "afstand_km": 89.3
   },
   {
    "titel": "Salsapulse-social op woensdag",
