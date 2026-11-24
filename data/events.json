@@ -1,14 +1,14 @@
 {
- "bijgewerkt": "2026-11-23T16:01+00:00",
+ "bijgewerkt": "2026-11-24T15:55+00:00",
  "vertrekpunt": "Brugge",
  "opgehaald_per_bron": {
-  "Handmatig": 76,
-  "Ticketmaster": 13,
+  "Handmatig": 77,
+  "Ticketmaster": 14,
   "Bandsintown": 0,
   "Salsa Vida": 0,
   "Webpagina's": 0
  },
- "aantal": 85,
+ "aantal": 87,
  "events": [
   {
    "titel": "Salsapulse-social op woensdag",
@@ -401,6 +401,29 @@
    "bron": "Handmatig",
    "opmerking": "Terugkerend event: check de datum bij de organisator",
    "afstand_km": 38.5
+  },
+  {
+   "titel": "PIÑA",
+   "start": "2027-01-29T22:30",
+   "soort": "concert",
+   "eind": null,
+   "artiesten": [
+    "PIÑA"
+   ],
+   "zaal": "Metropool Hengelo",
+   "stad": "Hengelo OV",
+   "land": "NL",
+   "adres": "Industrieplein 10",
+   "lat": 52.26115,
+   "lon": 6.79439,
+   "genres": [
+    "latin"
+   ],
+   "prijs": "",
+   "url": "https://www.ticketmaster.nl/event/pina-tickets/1685053660",
+   "bron": "Ticketmaster",
+   "opmerking": "",
+   "afstand_km": 272.2
   },
   {
    "titel": "Salsapulse-social op woensdag",
@@ -1833,6 +1856,27 @@
   {
    "titel": "Salsapulse-social op woensdag",
    "start": "2027-11-17T18:00",
+   "soort": "dansavond",
+   "eind": null,
+   "artiesten": [],
+   "zaal": "Salsapulse",
+   "stad": "Gent",
+   "land": "BE",
+   "adres": "",
+   "lat": 51.0543,
+   "lon": 3.7174,
+   "genres": [
+    "salsa"
+   ],
+   "prijs": "gratis",
+   "url": "https://www.salsavida.com/nl/event/belgium/flanders/east-flanders/gent/salsapuls-wednesday-socials-in-gent/",
+   "bron": "Handmatig",
+   "opmerking": "Terugkerend event: check de datum bij de organisator",
+   "afstand_km": 38.5
+  },
+  {
+   "titel": "Salsapulse-social op woensdag",
+   "start": "2027-11-24T18:00",
    "soort": "dansavond",
    "eind": null,
    "artiesten": [],
